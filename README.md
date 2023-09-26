@@ -1,3 +1,5 @@
+⚠️ dropped development in favor of [Go implementation](https://github.com/class142/escpos-go) ⚠️
+
 ## Purpose
 Python WS printing random jokes on serial thermo printer using ESCPOS library
 
